@@ -1,2 +1,4 @@
 kutya
 cica
+fekete
+szürke
